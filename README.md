@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Anything**
 
+- ⚡ Fun fact: The holes in golf balls help to reduce drag and allow the ball to travel farther.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
