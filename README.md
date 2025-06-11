@@ -2,7 +2,6 @@
 <h1 align="center"> <i> Hi 👋, I'm Sanskar Gupta </i> </h1>
 <h3 align="center">A passionate Machine Learning Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarhere" alt="sanskarhere" /></a> </p>
 
 - 🌱 I’m currently learning **Mlops**
 
