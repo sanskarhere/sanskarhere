@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center"> <i> Hi 👋, I'm Sanskar Gupta </i> </h1>
+<h1 align="center"> <em> Hi 👋, I'm Sanskar Gupta </em> </h1>
 <h3 align="center">A passionate Machine Learning Student</h3>
 
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- ⚡ Fun fact: Machine Learning is like a teenager's brain: it learns from experience, makes mistakes, and occasionally thinks it's smarter than its creators 🤖😅.
+- ⚡ Fun fact: <q>Machine Learning is like a teenager's brain: it learns from experience, makes mistakes, and occasionally thinks it's smarter than its creators 🤖😅</q>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
