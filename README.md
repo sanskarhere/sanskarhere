@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- ⚡ Fun fact: The holes in golf balls help to reduce drag and allow the ball to travel farther.
+- ⚡ Fun fact: Machine Learning is like a teenager's brain: it learns from experience, makes mistakes, and occasionally thinks it's smarter than its creators 🤖😅.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
