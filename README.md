@@ -17,9 +17,8 @@
 
 ## 🔍 Projects Worth Exploring
 - 🧠 [NLP Web App](https://github.com/Sanskarhere/nlp-web-app): Sentiment & Entity Analysis using HuggingFace  
-- 📊 [Result Automation Tool](#): One-click academic data analytics prototype  
 
----
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
