@@ -1,5 +1,5 @@
 # 💫 About Me
-<h1 align="center"><em>Hi 👋, I'm Sanskar Gupta</em></h1>
+<h1 align="center" style="color: red;"> <em>Hi 👋, I'm Sanskar Gupta</em></h1>
 <h3 align="center">A passionate Machine Learning student turning data into decisions</h3>
 
 - 🌱 Currently learning **MLOps** and exploring scalable ML systems  
