@@ -40,7 +40,7 @@
 ---
 
 ## 🌟 Beyond the Keyboard
-When I’m not decoding data, you’ll find me designing coding-themed wallpapers or exploring ethical hacking.  
+When I’m not decoding data, you’ll find me exploring ethical hacking.  
 
 ---
 
