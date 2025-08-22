@@ -16,7 +16,12 @@
 ---
 
 ## 🔍 Projects Worth Exploring
-- 🧠 [NLP Web App](https://github.com/Sanskarhere/nlp-web-app): Sentiment & Entity Analysis using HuggingFace  
+- 🧠 [NLP Web App](https://github.com/Sanskarhere/nlp-web-app): Sentiment & Entity Analysis using HuggingFace
+- 🔥[IgnitionIQ](https://github.com/sanskarhere/IgnitionIQ.git): Smart fire risk modeling for climate-aware decisions
+
+
+Want me to help you write a 3-line project pitch or README intro that matches the name you choose? Or we can test how each name sounds in a recruiter’s inbox.
+
 
 
 
