@@ -21,11 +21,6 @@
 - 🎬[PopcornPicks](https://github.com/sanskarhere/PopcornPicks.git) :AI Movie Recommendation Engine
 
 
-Want me to help you write a 3-line project pitch or README intro that matches the name you choose? Or we can test how each name sounds in a recruiter’s inbox.
-
-
-
-
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
