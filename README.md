@@ -16,9 +16,12 @@
 ---
 
 ## 🔍 Projects Worth Exploring
-- 🧠[NLP Web App](https://github.com/Sanskarhere/nlp-web-app): Sentiment & Entity Analysis using HuggingFace
-- 🔥[IgnitionIQ](https://github.com/sanskarhere/IgnitionIQ.git): Smart fire risk modeling for climate-aware decisions
 - 🎬[PopcornPicks](https://github.com/sanskarhere/PopcornPicks.git) :AI Movie Recommendation Engine
+- 🧠[NLP Web App](https://github.com/Sanskarhere/nlp-web-app): Sentiment & Entity Analysis using HuggingFace
+- 💎[GemValue AI](https://github.com/sanskarhere/GemValue-AI.git):Diamond Price Predictor
+- 🔥[IgnitionIQ](https://github.com/sanskarhere/IgnitionIQ.git): Smart fire risk modeling for climate-aware decisions
+
+
 
 
 ## 💻 Tech Stack
