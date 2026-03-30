@@ -16,7 +16,7 @@
 ---
 
 ## 🔍 Projects Worth Exploring
-- 📄[Document AI](https://github.com/sanskarhere/DocuMind-AI):Rag based app to Chat With pdf
+- 📄[Document AI](https://github.com/sanskarhere/DocuMind-AI):Rag based app to chat with Pdf
 - 💎[GemValue AI](https://github.com/sanskarhere/GemValue-AI.git):Diamond Price Predictor
 - 🎬[PopcornPicks](https://github.com/sanskarhere/PopcornPicks.git) :AI Movie Recommendation Engine
 - 🧠[NLP Web App](https://github.com/Sanskarhere/nlp-web-app): Sentiment & Entity Analysis using HuggingFace
