@@ -1,49 +1,67 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7F00FF&height=200&section=header&text=Sanskar%20Gupta&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Sanskar%20Gupta&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descAlignY=58&animation=fadeIn&fontColor=ffffff" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=C9A7FF&center=true&vCenter=true&width=900&lines=Turning+data+into+decisions;Building+real-world+ML+and+GenAI+systems;Pipelines+%E2%80%A2+RAG+%E2%80%A2+Deployment+%E2%80%A2+Applied+AI" />
+
+<br/><br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
 </p>
 
-<p align="center">
-  <b>AI Engineer • Building Intelligent Systems</b>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sanskarhere&label=Profile%20Views&color=7c3aed&style=flat" />
 </p>
 
-<p align="center">
-  <i>Turning data into decisions • Systems over scripts</i>
-</p>
+</div>
 
 ---
 
+<div align="center">
+
+### ᴅɪɢɴɪɴɢ ɪɴᴛᴇʟʟɪɢᴇɴᴛ ꜱʏꜱᴛᴇᴍꜱ, ɴᴏᴛ ᴊᴜꜱᴛ ᴛʀᴀɪɴɪɴɢ ᴍᴏᴅᴇʟꜱ
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## ✦ About Me
 
-+ I build systems, not just models
-+ I focus on real-world performance, not just accuracy
-+ I turn raw data into usable intelligence
+I’m **Sanskar Gupta**, a builder focused on **Machine Learning, GenAI, and applied AI systems**.
 
-✦ Projects as Missions
-<table> <tr> <td width="50%">
-🧠 DocuMind AI
+What excites me is not just making a model work —  
+but making it **usable, scalable, and valuable in the real world**.
 
-RAG-based system to chat with PDFs
-→ Retrieval + Embeddings + LLM
+- Building AI systems end-to-end  
+- Exploring production-style ML workflows  
+- Turning messy data into useful intelligence  
+- Learning by building real projects, not just notebooks  
 
-💎 GemValue AI
+</td>
+<td width="50%" valign="top">
 
-Diamond price prediction pipeline
-→ Clean ML workflow + deployment
+## ✦ Current Focus
 
-</td> <td width="50%">
-🎬 PopcornPicks
+```yaml
+Learning Mode:
+  - Applied Machine Learning
+  - Retrieval-Augmented Generation
+  - ML pipeline design
+  - Deployment thinking
 
-AI movie recommendation system
-→ Embedding similarity + ranking
-
-🔥 IgnitionIQ
-
-Fire risk prediction system
-→ Data → Model → Decision
-
-</td> </tr> </table>
-✦ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,fastapi,sklearn,pandas,numpy,mysql,git"/> </p>
-✦ GitHub Pulse
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskarhere&theme=tokyonight&hide_border=true&layout=compact"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:2c5364&height=120&section=footer"/> </p> ```
+Building Mode:
+  - Scalable ML workflows
+  - Real-world AI projects
+  - Better architecture and clean code
+  - Strong project presentation
