@@ -16,13 +16,6 @@ I'm **Sanskar Gupta** — an AI Engineer obsessed with building intelligent syst
 
 Not a model stacker. Not a notebook decorator. **A builder of real intelligence.**
 
-### What Excites Me:
-- 🔬 **Rigorous** experimentation meets practical deployment
-- ⚙️ **Scalable** systems designed for production environments
-- 🎯 **Data-driven** decision-making at every layer
-- 🚀 **End-to-end** AI pipelines with measurable impact
-- 💡 **Human-centered** AI that solves real problems
-
 **Philosophy:** Data → Intelligence → Action → Impact
 
 ---
@@ -33,19 +26,12 @@ Not a model stacker. Not a notebook decorator. **A builder of real intelligence.
 **Intelligent Document Companion**  
 Chat with PDFs using advanced RAG (Retrieval-Augmented Generation)
 
-**Tech Stack:** LangChain • Pinecone • OpenAI GPT • FastAPI  
-**Key Features:** Context-aware retrieval, semantic understanding, multi-document chat
-
 [→ Explore Project](https://github.com/sanskarhere/DocuMind-AI)
 
 ---
-
 ### 💎 GemValue AI
 **Predictive Diamond Valuation Engine**  
 Production-ready ML system for accurate price prediction
-
-**Tech Stack:** Scikit-learn • XGBoost • Flask • MLOps Pipeline  
-**Key Features:** Feature engineering, rigorous validation, API deployment
 
 [→ Explore Project](https://github.com/sanskarhere/GemValue-AI)
 
@@ -55,9 +41,6 @@ Production-ready ML system for accurate price prediction
 **AI-Powered Movie Discovery Engine**  
 Intelligent recommendations through semantic similarity
 
-**Tech Stack:** Dense Embeddings • Cosine Similarity • Python  
-**Key Features:** Semantic understanding, personalized recommendations
-
 [→ Explore Project](https://github.com/sanskarhere/PopcornPicks)
 
 ---
@@ -65,9 +48,6 @@ Intelligent recommendations through semantic similarity
 ### 🔥 IgnitionIQ
 **Climate-Aware Fire Risk Intelligence**  
 Predictive analytics for environmental safety
-
-**Tech Stack:** Predictive Modeling • Climate Data • Decision Systems  
-**Key Features:** Risk forecasting, environmental analysis, actionable insights
 
 [→ Explore Project](https://github.com/sanskarhere/IgnitionIQ)
 
@@ -77,8 +57,6 @@ Predictive analytics for environmental safety
 **Sentiment & Entity Analysis Platform**  
 Real-time NLP processing with HuggingFace models
 
-**Tech Stack:** HuggingFace Transformers • Flask • BERT  
-**Key Features:** Sentiment analysis, named entity recognition, web interface
 
 [→ Explore Project](https://github.com/Sanskarhere/nlp-web-app)
 
