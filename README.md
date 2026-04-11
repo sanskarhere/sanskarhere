@@ -51,17 +51,26 @@ but making it **usable, scalable, and valuable in the real world**.
 </td>
 <td width="50%" valign="top">
 
-## ✦ Current Focus
+## ✦ Featured Projects
 
-```yaml
-Learning Mode:
-  - Applied Machine Learning
-  - Retrieval-Augmented Generation
-  - ML pipeline design
-  - Deployment thinking
+### 🧠 DocuMind AI  
+*Chat with PDFs using RAG*  
+→ Retrieval + Embeddings + LLM pipeline  
 
-Building Mode:
-  - Scalable ML workflows
-  - Real-world AI projects
-  - Better architecture and clean code
-  - Strong project presentation
+---
+
+### 💎 GemValue AI  
+*Diamond price prediction system*  
+→ Structured ML pipeline + deployment  
+
+---
+
+### 🎬 PopcornPicks  
+*AI recommendation engine*  
+→ Embedding-based similarity  
+
+---
+
+### 🔥 IgnitionIQ  
+*Fire risk prediction system*  
+→ Data → Model → Decision  
