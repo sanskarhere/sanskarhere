@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🌟<i> SANSKAR GUPTA</i>
+## AI Engineer • ML Engineer • Building Intelligent Systems
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Turning+Chaos+Into+Intelligence;Crafting+Systems+That+Learn+And+Adapt;Building+Tomorrow's+AI+Today)
-
 ---
 
 </div>
