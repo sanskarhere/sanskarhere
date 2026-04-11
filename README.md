@@ -2,7 +2,7 @@
 
 # 🌟<i> SANSKAR GUPTA</i>
 
-## AI Architect • ML Engineer • Building Intelligent Systems
+## AI Engineer • ML Engineer • Building Intelligent Systems
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Turning+Chaos+Into+Intelligence;Crafting+Systems+That+Learn+And+Adapt;Building+Tomorrow's+AI+Today)
 
@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm **Sanskar Gupta** — an AI architect obsessed with building intelligent systems that **matter**.
+I'm **Sanskar Gupta** — an AI Engineer obsessed with building intelligent systems that **matter**.
 
 Not a model stacker. Not a notebook decorator. **A builder of real intelligence.**
 
