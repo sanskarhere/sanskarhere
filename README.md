@@ -1,6 +1,6 @@
 <div align="center">
 
-  <i># 🌟 SANSKAR GUPTA</i>
+# 🌟<i> SANSKAR GUPTA</i>
 
 ## AI Architect • ML Engineer • Building Intelligent Systems
 
@@ -146,9 +146,12 @@ Real-time NLP processing with HuggingFace models
 - **Learning by Building** → Doing beats watching every time
 
 ---
-|
 
-**[→ View Full Profile](https://github.com/sanskarhere)**
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarhere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9bafe&title_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarhere&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9bafe&title_color=58a6ff&layout=compact)
 
 ---
 
