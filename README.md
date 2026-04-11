@@ -1,86 +1,72 @@
-# 👋 Hi, I'm Sanskar Gupta
+<h1 align="center">
+  Sanskar Gupta
+</h1>
 
-### AI Engineer | Building Real-World Intelligent Systems
+<p align="center">
+  <b>AI Engineer • Building Intelligent Systems</b>
+</p>
 
-I design and build machine learning systems that turn raw data into actionable decisions — from model development to deployment.
-
----
-
-## 🚀 What I'm Currently Building
-
-- 📦 Scalable ML pipelines using MLOps best practices  
-- 🔄 Automating training, deployment, and monitoring workflows  
-- 🎯 Focused on reproducibility, performance optimization, and clean architecture  
+<p align="center">
+  Turning data into decisions through scalable machine learning systems
+</p>
 
 ---
 
-## 🔍 Featured Projects
+## ⚡ What I Do
 
-### 📄 DocuMind AI  
-RAG-based system to interact with complex PDFs in real time  
-→ Built end-to-end pipeline: ingestion → embeddings → FAISS → LLM  
-🔗 https://github.com/sanskarhere/DocuMind-AI  
+I build end-to-end AI systems — from data pipelines to deployed models — focusing on real-world performance, not just experimentation.
 
 ---
 
-### 💎 GemValue AI  
-Diamond price prediction system using structured ML pipelines  
-→ Feature engineering + preprocessing + model deployment  
-🔗 https://github.com/sanskarhere/GemValue-AI  
+## 🚀 Selected Work
+
+### DocuMind AI
+A retrieval-augmented system to interact with complex PDFs in real time  
+→ Built full pipeline: ingestion → embeddings → FAISS → LLM  
 
 ---
 
-### 🎬 PopcornPicks  
-AI-powered movie recommendation system  
-→ Content-based filtering + embeddings + similarity search  
-🔗 https://github.com/sanskarhere/PopcornPicks  
+### GemValue AI
+Production-ready ML pipeline for diamond price prediction  
+→ Feature engineering, preprocessing, and deployment  
 
 ---
 
-### 🧠 NLP Web App  
-Real-time sentiment analysis and entity recognition  
-→ HuggingFace Transformers + Flask deployment  
-🔗 https://github.com/Sanskarhere/nlp-web-app  
+### PopcornPicks
+Intelligent movie recommendation engine  
+→ Embedding-based similarity + ranking system  
 
 ---
 
-### 🔥 IgnitionIQ  
-Fire risk prediction system using environmental data  
-→ ML model + web interface for decision support  
-🔗 https://github.com/sanskarhere/IgnitionIQ  
+### NLP Web App
+Real-time NLP system with sentiment and entity analysis  
+→ Transformers + Flask deployment  
 
 ---
 
-## 🧠 Tech Stack
-
-**Languages & Core**
-- Python, Java  
-
-**ML / AI**
-- Scikit-learn, Pandas, NumPy  
-- HuggingFace, Transformers  
-
-**Backend & Deployment**
-- Flask, FastAPI  
-- REST APIs  
-
-**Tools & Workflow**
-- Git, Anaconda  
-- Model pipelines & experimentation  
+### IgnitionIQ
+Fire risk prediction system for environmental decision-making  
+→ ML model integrated with a user-facing interface  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Stack
+
+Python • Scikit-learn • Pandas • NumPy  
+Flask • FastAPI • REST APIs  
+HuggingFace • Transformers  
+
+---
+
+## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskarhere&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-## ⚡ Beyond Code
-
-Exploring cybersecurity and ethical hacking to understand systems end-to-end.
-
----
+<p align="center">
+  <i>“Good models predict. Great systems deliver.”</i>
+</p>
 
 ## 💬 Quick Insight
 
