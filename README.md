@@ -2,8 +2,7 @@
 <h1 align="center" style="color: red;"> <em>Hi 👋, I'm Sanskar Gupta</em></h1>
 <h3 align="center">A passionate Machine Learning student turning data into decisions</h3>
 
-- 🌱 Currently learning **MLOps** and exploring scalable ML systems  
-- 💬 Ask me about **Python, Flask, or random AI analogies**  
+- 💬 Ask me about **Python, Flask, ML , Gen Ai or random AI analogies**  
 - ⚡ Fun fact: <q>Machine Learning is like a teenager's brain—learning fast, making mistakes, and sometimes acting way too confident 🤖😅</q>
 
 ---
