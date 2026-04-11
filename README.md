@@ -12,10 +12,6 @@
 
 I'm **Sanskar Gupta** — an AI Engineer obsessed with building intelligent systems that **matter**.
 
-Not a model stacker. Not a notebook decorator. **A builder of real intelligence.**
-
-**Philosophy:** Data → Intelligence → Action → Impact
-
 ---
 
 ## 🚀 Flagship Projects
