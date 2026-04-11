@@ -1,73 +1,20 @@
-<h1 align="center">
-  Sanskar Gupta
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7F00FF&height=200&section=header&text=Sanskar%20Gupta&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <p align="center">
   <b>AI Engineer • Building Intelligent Systems</b>
 </p>
 
 <p align="center">
-  Turning data into decisions through scalable machine learning systems
+  <i>Turning data into decisions • Systems over scripts</i>
 </p>
 
 ---
 
-## ⚡ What I Do
+## ✦ About Me
 
-I build end-to-end AI systems — from data pipelines to deployed models — focusing on real-world performance, not just experimentation.
-
----
-
-## 🚀 Selected Work
-
-### DocuMind AI
-A retrieval-augmented system to interact with complex PDFs in real time  
-→ Built full pipeline: ingestion → embeddings → FAISS → LLM  
-
----
-
-### GemValue AI
-Production-ready ML pipeline for diamond price prediction  
-→ Feature engineering, preprocessing, and deployment  
-
----
-
-### PopcornPicks
-Intelligent movie recommendation engine  
-→ Embedding-based similarity + ranking system  
-
----
-
-### NLP Web App
-Real-time NLP system with sentiment and entity analysis  
-→ Transformers + Flask deployment  
-
----
-
-### IgnitionIQ
-Fire risk prediction system for environmental decision-making  
-→ ML model integrated with a user-facing interface  
-
----
-
-## 🧠 Stack
-
-Python • Scikit-learn • Pandas • NumPy  
-Flask • FastAPI • REST APIs  
-HuggingFace • Transformers  
-
----
-
-## 📊 Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskarhere&theme=dark&hide_border=true&layout=compact)
-
----
-
-<p align="center">
-  <i>“Good models predict. Great systems deliver.”</i>
-</p>
-
-## 💬 Quick Insight
-
-> Machine learning is not just about models — it's about building systems that work reliably in the real world.
+```diff
++ I build systems, not just models
++ I focus on real-world performance, not just accuracy
++ I turn raw data into usable intelligence
