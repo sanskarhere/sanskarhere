@@ -147,11 +147,16 @@ Real-time NLP processing with HuggingFace models
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Key Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskarhere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9bafe&title_color=58a6ff)
+| Metric | Value |
+|--------|-------|
+| **Projects** | 5+ Active Projects |
+| **Focus** | ML • GenAI • Production Systems |
+| **Primary Language** | Python |
+| **Core Interest** | End-to-end AI Systems |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarhere&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9bafe&title_color=58a6ff&layout=compact)
+**[→ View Full Profile](https://github.com/sanskarhere)**
 
 ---
 
@@ -193,4 +198,4 @@ I'm always interested in:
 
 **"In a world of data, be the signal. In a world of models, be the solution."**
 
-</div>  
+</div>
