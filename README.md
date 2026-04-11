@@ -16,41 +16,30 @@ I'm **Sanskar Gupta** — an AI Engineer obsessed with building intelligent syst
 
 ## 🚀 Flagship Projects
 
-### 🧠 DocuMind AI
-**Intelligent Document Companion**  
-Chat with PDFs using advanced RAG (Retrieval-Augmented Generation)
+### 🧠 DocuMind AI  Chat with PDFs using advanced RAG (Retrieval-Augmented Generation)
 
 [→ Explore Project](https://github.com/sanskarhere/DocuMind-AI)
 
 ---
-### 💎 GemValue AI
-**Predictive Diamond Valuation Engine**  
-Production-ready ML system for accurate price prediction
+### 💎 GemValue AI Production-ready ML system for accurate price prediction
 
 [→ Explore Project](https://github.com/sanskarhere/GemValue-AI)
 
 ---
 
-### 🎬 PopcornPicks
-**AI-Powered Movie Discovery Engine**  
-Intelligent recommendations through semantic similarity
+### 🎬 PopcornPicks Intelligent recommendations through semantic similarity
 
 [→ Explore Project](https://github.com/sanskarhere/PopcornPicks)
 
 ---
 
-### 🔥 IgnitionIQ
-**Climate-Aware Fire Risk Intelligence**  
-Predictive analytics for environmental safety
+### 🔥 IgnitionIQ Predictive analytics for environmental safety
 
 [→ Explore Project](https://github.com/sanskarhere/IgnitionIQ)
 
 ---
 
-### 🧠 NLP Web App
-**Sentiment & Entity Analysis Platform**  
-Real-time NLP processing with HuggingFace models
-
+### 🧠 NLP Web App Real-time NLP processing with HuggingFace models
 
 [→ Explore Project](https://github.com/Sanskarhere/nlp-web-app)
 
