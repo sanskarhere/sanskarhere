@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanskar--spark--showcase.vercel.app-6366f1?style=for-the-badge)](https://sanskar-spark-showcase.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
