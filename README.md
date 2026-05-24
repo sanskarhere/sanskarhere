@@ -164,7 +164,6 @@ Diamond price predictor achieving **sub-2% error**. Precision regression for a h
 
 ### Got an AI problem to solve?
 
-[![Let's Collaborate](https://img.shields.io/badge/Let's_Collaborate-6366f1?style=for-the-badge&logo=handshake&logoColor=white)](https://sanskar-spark-showcase.vercel.app/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer"/>
 
