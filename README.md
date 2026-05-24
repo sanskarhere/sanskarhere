@@ -1,170 +1,220 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Sanskar%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20GenAI%20Builder%20%C2%B7%20India&descAlignY=58&descColor=c7d2fe"/>
-
-</div>
-
-<div align="center">
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sanskar%20Gupta&fontSize=52&fontColor=e2e8f0&fontAlignY=45&desc=ML%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20India&descFontSize=16&descAlignY=65&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br/>
 
-```python
-class Sanskar:
-    role         = "Machine Learning Engineer"
-    focus        = ["Multimodal AI", "RAG Systems", "MLOps", "LLMs", "GenAI"]
-    now_building = "Scalable ML pipelines — training, deployment & monitoring at scale"
-    learning     = ["LLM fine-tuning", "LangGraph", "Vector DBs", "SageMaker"]
-    beyond_code  = "Ethical hacking · How AI fails before it succeeds"
-    open_to      = "Collabs on AI/ML problems that actually matter"
-```
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=7c3aed)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/-Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=7c3aed)](mailto:YOUR_EMAIL)&nbsp;&nbsp;
+[![Visitors](https://komarev.com/ghpvc/?username=sanskarhere&style=for-the-badge&color=7c3aed&label=VISITORS)](https://github.com/sanskarhere)
+
+</div>
+
+<br/>
 
 ---
 
-## 🚀 Deployed & Live
+<div align="center">
+
+### ` 🧠 About Me `
+
+</div>
+
+<br/>
+
+```yaml
+name        : Sanskar Gupta
+role        : Machine Learning Engineer
+focus       : Multimodal AI · RAG Systems · MLOps · LLMs
+building    : Scalable ML pipelines — training, deployment & monitoring
+learning    : LLM fine-tuning · LangGraph · Vector DBs · SageMaker
+philosophy  : How AI fails before it succeeds
+open_to     : Collaborations on problems that actually matter
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+### ` 🚀 Shipped `
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
-### 🏛️ [Grievance.ai](https://grievance-ai-ui.web.app) — Multimodal Civic Intelligence Platform
+<div align="center">
 
-> `Python` `CLIP` `Whisper` `MiniLM` `FastAPI` `Docker` `MLflow` `Firebase` `Cloud Run`
+**🏛️ GRIEVANCE.AI**
+`DEPLOYED · LIVE`
 
-A production-grade platform that lets citizens report civic issues via **text, voice, or image** — including Hindi/Hinglish speech — and automatically classifies, prioritizes, and routes them to the right municipal department.
+</div>
 
-```
-Voice Input (Hindi/Hinglish)  ──►  Whisper STT
-Image Evidence                ──►  CLIP Cross-modal Verification   ──►  MiniLM Classifier  ──►  Auto-routed
-Text Complaint                ──►  Semantic Embedding                    94.1% accuracy          to Department
-```
+Multimodal civic intelligence platform — citizens file complaints via **text, voice, or image**, including Hindi/Hinglish speech.
 
-| Metric | Result |
-|--------|--------|
-| Validation Accuracy | **94.1%** |
-| Macro F1-Score | **0.91** |
-| Manual Sorting Reduced | **85%** |
-| Languages Supported | Hindi · Hinglish · English |
+<div align="center">
 
-[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-grievance--ai--ui.web.app-22c55e?style=flat-square)](https://grievance-ai-ui.web.app)
-[![Backend API](https://img.shields.io/badge/API-Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://grievance-server-200448172587.us-central1.run.app)
-[![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Musa-Qureshi-01/Grievance.ai)
+| | |
+|---|---|
+| ✦ Accuracy | `94.1%` |
+| ✦ Macro F1 | `0.91` |
+| ✦ Overhead cut | `85%` |
+
+</div>
+
+`CLIP` `Whisper` `MiniLM` `FastAPI` `Docker` `MLflow` `Cloud Run`
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-22c55e?style=flat-square)](https://grievance-ai-ui.web.app)&nbsp;
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Musa-Qureshi-01/Grievance.ai)
+
+</div>
+
+</td>
+<td>
+
+<div align="center">
+
+**🧠 DOCUMIND AI**
+`RAG · DOCUMENT QA`
+
+</div>
+
+Document-grounded QA — answers with evidence, not hallucinations. Systematic ablation across chunking, embedding dims, and prompt design.
+
+<div align="center">
+
+| | |
+|---|---|
+| ✦ Retrieval Acc | `92%` |
+| ✦ Hallucinations | `↓ 68%` |
+| ✦ MLflow Runs | `40+` |
+
+</div>
+
+`LangChain` `FAISS` `Groq LLM` `HuggingFace` `MLflow`
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere/DocuMind-AI)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<div align="center">
+
+**🧾 TAXFORGE-AI**
+`AUTOMATION PIPELINE`
+
+</div>
+
+Privacy-safe synthetic tax data generator and form-filling pipeline. Built for document AI testing — no real taxpayer data. Built *with* Claude Code, an agentic tool, to build agentic tooling.
+
+`Python` `FastAPI` `Claude Code`
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere/TaxForge-AI)
+
+</div>
+
+</td>
+<td>
+
+<div align="center">
+
+**📊 NLP ABLATIONS**
+`RESEARCH · SYSTEMATIC`
+
+</div>
+
+8+ classifier architectures for NER and sentiment analysis — precision-recall tradeoffs, inference latency, deployment constraints. All tracked, all reproducible.
+
+`PyTorch` `HuggingFace` `scikit-learn` `MLflow`
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 [TaxForge-AI](https://github.com/sanskarhere/TaxForge-AI)
-> `Python` `FastAPI` `Claude Code`
-
-Privacy-safe **synthetic tax record generator** and form-filling automation pipeline. Built for document AI testing without real taxpayer data.
-
-Built *with* Claude Code — using an agentic tool to build automation tooling. That's the kind of recursion I find interesting.
-
-```
-prompt → synthetic record
-       → form-ready output
-       → validation pipeline
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [DocuMind AI](https://github.com/sanskarhere/DocuMind-AI)
-> `LangChain` `FAISS` `Groq LLM` `MLflow`
-
-RAG pipeline for **document-grounded QA** — answers questions with evidence, not hallucinations.
-
-| Metric | Result |
-|--------|--------|
-| Retrieval Accuracy | **92%** |
-| Hallucinations Reduced | **68%** |
-| Experiment Runs | **40+** MLflow |
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 NLP Ablation Studies
-> `PyTorch` `HuggingFace` `Scikit-learn` `MLflow`
-
-Systematic comparison across **8+ NLP architectures** for NER and sentiment analysis. Evaluated precision-recall tradeoffs, inference latency, and deployment constraints across all configs.
-
-Not just running models — understanding *why* one wins over another.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 [IgnitionIQ](https://github.com/sanskarhere)
-> `RandomForest` `GeoPandas` `Plotly`
-
-Climate-aware **wildfire risk intelligence** — ML applied to one of earth's most urgent problems.
-
-### 💎 [GemValue AI](https://github.com/sanskarhere)
-> `XGBoost` `scikit-learn` `Flask`
-
-Diamond price predictor achieving **sub-2% error**. Precision regression for a high-stakes, fine-grained market.
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
-
-## ⚙️ Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+### ` ⚙️ Stack `
 
 </div>
 
----
-
-## 📈 GitHub Activity
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarhere&theme=react-dark&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1" width="100%"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-### Got an AI problem to solve?
+### ` 📈 Activity `
 
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarhere&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&area_color=7c3aed&hide_border=true" width="95%"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sanskarhere&theme=transparent&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"The goal is not a perfect model — it's a model perfect enough to matter."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
 </div>
