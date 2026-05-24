@@ -1,6 +1,6 @@
 
-<div align="center">
-
+<div align="center" >
+<i> <mark>
 ```
 ███████╗ █████╗ ███╗   ██╗███████╗██╗  ██╗ █████╗ ██████╗
 ██╔════╝██╔══██╗████╗  ██║██╔════╝██║ ██╔╝██╔══██╗██╔══██╗
@@ -9,7 +9,7 @@
 ███████║██║  ██║██║ ╚████║███████║██║  ██╗██║  ██║██║  ██║
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
-
+</i></mark>
 ### `ML Engineer` · `GenAI Builder` · `India`
 
 > *"The goal is not a perfect model — it's a model perfect enough to matter."*
