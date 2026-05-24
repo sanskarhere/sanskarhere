@@ -60,13 +60,11 @@ RAG-powered PDF intelligence. Ask any question, get answers grounded directly in
 </td>
 <td width="50%" valign="top">
 
-**[IgnitionIQ ↗](https://github.com/sanskarhere/IgnitionIQ.git)**
 
-Climate-aware wildfire risk intelligence. ML applied to one of earth's most urgent, complex problems.
-
-![RandomForest](https://img.shields.io/badge/RandomForest-0b0f14?style=flat-square&logoColor=2DD4BF)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-0b0f14?style=flat-square&logoColor=2DD4BF)
-![Plotly](https://img.shields.io/badge/Plotly-0b0f14?style=flat-square&logo=plotly&logoColor=2DD4BF)
+| [Grievance.ai](https://grievance-ai-ui.web.app) 🚀 | [TaxForge-AI](https://github.com/sanskarhere/TaxForge-AI) 🚀 |
+| --- | --- |
+| Multimodal civic grievance platform — classifies text, audio & Hindi/Hinglish speech using CLIP, Whisper & MiniLM. Deployed on Cloud Run + Firebase. | Privacy-safe synthetic tax data generator & form-filling automation pipeline. Built for document AI testing without real taxpayer data. |
+| `CLIP` `Whisper` `FastAPI` `Docker` `MLflow` | `Python` `Claude Code` `FastAPI` |
 
 </td>
 </tr>
