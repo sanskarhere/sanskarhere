@@ -76,7 +76,7 @@ Multimodal civic intelligence platform — citizens file complaints via **text, 
 <div align="center">
 
 [![Live](https://img.shields.io/badge/▶_LIVE_DEMO-22c55e?style=flat-square)](https://grievance-ai-ui.web.app)&nbsp;
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Musa-Qureshi-01/Grievance.ai)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://dagshub.com/sanskar/Grievance-AI.mlflow)
 
 </div>
 
