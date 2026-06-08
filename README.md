@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sanskar%20Gupta&fontSize=52&fontColor=e2e8f0&fontAlignY=45&desc=ML%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20India&descFontSize=16&descAlignY=65&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sanskar%20Gupta&fontSize=52&fontColor=e2e8f0&fontAlignY=45&desc=AI%2FML%20Engineer%20Intern%20%E2%80%A2%20RAG%20Systems%20%E2%80%A2%20Multimodal%20AI&descFontSize=16&descAlignY=65&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=7c3aed)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=7c3aed)](mailto:YOUR_EMAIL)&nbsp;&nbsp;
+[![DocuMind Live](https://img.shields.io/badge/DocuMind_AI-LIVE-22c55e?style=for-the-badge)](https://documind-ai-vert.vercel.app)&nbsp;&nbsp;
 [![Visitors](https://komarev.com/ghpvc/?username=sanskarhere&style=for-the-badge&color=7c3aed&label=VISITORS)](https://github.com/sanskarhere)
 
 </div>
@@ -28,12 +29,11 @@
 
 ```yaml
 name        : Sanskar Gupta
-role        : Machine Learning Engineer
-focus       : Multimodal AI · RAG Systems · MLOps · LLMs
-building    : Scalable ML pipelines — training, deployment & monitoring
-learning    : LLM fine-tuning · LangGraph · Vector DBs · SageMaker
-philosophy  : How AI fails before it succeeds
-open_to     : Collaborations on problems that actually matter
+role        : AI/ML Engineer Intern · B.Tech CS (AI/ML) · 2026
+focus       : RAG Systems · Multimodal AI · LLM Deployment
+building    : RAG pipelines, multimodal classifiers, REST APIs — with live deployments
+philosophy  : Ablation-first — understand what breaks before shipping
+open_to     : AI/ML internships · Open to building with early-stage founders
 ```
 
 <br/>
@@ -48,113 +48,68 @@ open_to     : Collaborations on problems that actually matter
 
 <br/>
 
-<table>
-<tr>
-<td>
+**🏛️ GRIEVANCE-AI** &nbsp;·&nbsp; `DEPLOYED · LIVE`
 
-<div align="center">
+> Multimodal civic intelligence platform — citizens file complaints via **text, voice, or image**, including Hindi/Hinglish speech. Three-component ML pipeline: text classifier, image classifier, speech-to-text with NLP routing.
 
-**🏛️ GRIEVANCE-AI**
-`DEPLOYED · LIVE`
-
-</div>
-
-Multimodal civic intelligence platform — citizens file complaints via **text, voice, or image**, including Hindi/Hinglish speech.
-
-<div align="center">
-
-| | |
-|---|---|
-| ✦ Accuracy | `94.1%` |
-| ✦ Macro F1 | `0.91` |
-| ✦ Overhead cut | `85%` |
-
-</div>
+![Accuracy](https://img.shields.io/badge/Accuracy-94.1%25-1D9E75?style=flat-square)&nbsp;
+![F1](https://img.shields.io/badge/Macro_F1-0.91-1D9E75?style=flat-square)&nbsp;
+![Verified](https://img.shields.io/badge/Verified-MLflow_·_DagsHub-0194E2?style=flat-square)
 
 `CLIP` `Whisper` `MiniLM` `FastAPI` `Docker` `MLflow` `Cloud Run`
 
-<div align="center">
+[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-22c55e?style=flat-square)](https://grievance-ai-ui.web.app)&nbsp;
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere/Grievance-AI)&nbsp;
+[![MLflow Logs](https://img.shields.io/badge/MLflow_Logs-0194E2?style=flat-square&logo=mlflow)](https://dagshub.com/sanskarhere/Grievance-AI)
 
-[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-22c55e?style=flat-square)](https://grievance-ai-ui.web.app)&nbsp;
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere/Grievance-AI.git)
+<br/>
 
-</div>
+---
 
-</td>
-<td>
+**🧠 DOCUMIND AI** &nbsp;·&nbsp; `RAG · DOCUMENT QA · LIVE`
 
-<div align="center">
+> Document-grounded QA — answers with evidence, not hallucinations. Systematic ablation across chunking strategies, embedding dimensions, and prompt design. 40+ tracked MLflow runs.
 
-**🧠 DOCUMIND AI**
-`RAG · DOCUMENT QA`
+![Runs](https://img.shields.io/badge/MLflow_Runs-40+-0194E2?style=flat-square)&nbsp;
+![Approach](https://img.shields.io/badge/Approach-Ablation--driven_RAG-534AB7?style=flat-square)&nbsp;
+![Deployed](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel)
 
-</div>
+`LangChain` `FAISS` `Groq LLM` `HuggingFace` `MLflow` `FastAPI`
 
-Document-grounded QA — answers with evidence, not hallucinations. Systematic ablation across chunking, embedding dims, and prompt design.
-
-<div align="center">
-
-| | |
-|---|---|
-| ✦ Retrieval Acc | `92%` |
-| ✦ Hallucinations | `↓ 68%` |
-| ✦ MLflow Runs | `40+` |
-
-</div>
-
-`LangChain` `FAISS` `Groq LLM` `HuggingFace` `MLflow`
-
-<div align="center">
-
+[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-22c55e?style=flat-square)](https://documind-ai-vert.vercel.app)&nbsp;
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere/DocuMind-AI)
 
-</div>
+<br/>
 
-</td>
-</tr>
-<tr>
-<td>
+---
 
-<div align="center">
+**🧾 NLP ABLATIONS** &nbsp;·&nbsp; `RESEARCH · SYSTEMATIC`
 
-**🧾 TAXFORGE-AI**
-`AUTOMATION PIPELINE`
-
-</div>
-
-Privacy-safe synthetic tax data generator and form-filling pipeline. Built for document AI testing — no real taxpayer data. Built *with* Claude Code, an agentic tool, to build agentic tooling.
-
-`Python` `FastAPI` `Claude Code`
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere/TaxForge-AI)
-
-</div>
-
-</td>
-<td>
-
-<div align="center">
-
-**📊 NLP ABLATIONS**
-`RESEARCH · SYSTEMATIC`
-
-</div>
-
-8+ classifier architectures for NER and sentiment analysis — precision-recall tradeoffs, inference latency, deployment constraints. All tracked, all reproducible.
+> 8+ classifier architectures for NER and sentiment analysis — precision-recall tradeoffs, inference latency, and deployment constraints across architectures. All runs tracked, all results reproducible.
 
 `PyTorch` `HuggingFace` `scikit-learn` `MLflow`
 
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere/NLP-Ablations)
+
+<br/>
+
+---
+
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere)
+### ` 🧪 Experiments `
 
 </div>
 
-</td>
-</tr>
-</table>
+<br/>
+
+**🧾 TAXFORGE-AI** &nbsp;·&nbsp; `EXPERIMENT`
+
+> Privacy-safe synthetic tax data generator and form-filling pipeline — built for document AI testing without real taxpayer data. An exploration of agentic tooling, built with Claude Code.
+
+`Python` `FastAPI` `Claude Code`
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sanskarhere/TaxForge-AI)
 
 <br/>
 
@@ -211,7 +166,7 @@ Privacy-safe synthetic tax data generator and form-filling pipeline. Built for d
 
 <div align="center">
 
-*"The goal is not a perfect model — it's a model perfect enough to matter."*
+*"Ship it, measure it, break it on purpose — then make it better."*
 
 <br/>
 
